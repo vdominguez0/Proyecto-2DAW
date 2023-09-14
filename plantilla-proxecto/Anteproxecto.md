@@ -1,7 +1,7 @@
-# Anteproyecto fin de ciclo
+# Anteproxecto fin de ciclo
 
-> *EXPLICACIÓN*: Este documento será la "*página de aterrizaje*" de tu proyecto. Será lo primero que vean los que se interesen por él. Cuida su redacción con todo tu mimo. Elimina posteriormente todas las lineas "*EXPLICACIÓN*" cuando creas finalizada su redacción.
-> Puedes acompañar a la redacción de este fichero con imágenes o gifs, pero no abuses de ellos.
+> *EXPLICACIÓN*: Este documento será la "*páxina de partida*" do teu proyecto. Será lo primero que lean os profesores.Coida a súa redacción con todo o teu mimo. Elimina posteriormente todas as lineas "EXPLICACIÓN*" cando creas finalizada a súa redacción.
+> Podes acompañar á redacción deste ficheiro con imaxes ou gifs, pero non abuses deles.
 
 ## Descripción
 
