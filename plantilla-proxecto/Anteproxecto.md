@@ -8,6 +8,24 @@
 
 > *EXPLICACIÓN*: Realiza unha breve descrición do anteproxecto. Non menos de 100 palabras e non máis de 300. Resalta o fundamental *coas túas propias palabras**. Utiliza unha linguaxe correcta, *pero natural**, que o entenda todo o mundo, mesmo e en especial, as persoas que non teñan un coñecemento técnico avanzado. Pode ser un estracto ou resumo de apartados que xa contemples noutros ficheiros.
 
+## Idea de proxecto
+Trátase de describir a análise realizada e a toma de decisións adoptada sobre aspectos básicos ou iniciais do proxecto como:
+
+- ¿En que consiste o noso proxecto? ¿Cal é o propósito principal da aplicación a desenvolver? ¿Cales son os obxectivos?
+- ¿A quen vai destinada a aplicación? (Contexto social ou sector empresarial, tipo de persoas, ...)
+- ¿Cal é a necesidade ou necesidades que se pretenden cubrir ou satisfacer?
+- ¿Existen na actualidade aplicacións que tenten dar resposta a esa(s) necesidade(s)? ¿En que medida o conseguen?
+- ¿O desenvolvemento da aplicación abre unha oportunidade de negocio? ¿É posible comercializala? Como?
+- ¿Que tecnoloxías son as máis axeitadas para a realización do proxecto?
+
+## Contextualización
+
+Una contextualización que identifique as necesidades ás que dará resposta o proxecto e defina o modelo de negocio.
+
+Modelo de negocio:
+1- Xustificación das necesidades detectadas que cubre o sistema a desenvolver.
+2- Posibilidades de comercialización do sistema (viabilidade, competidores, ...). 
+3- Ideas para a súa comercialización.
 ## Linguaxes/ferramentas/tecnoloxías
 
 > *EXPLICACIÓN*: Descrición básica das ferramentas/tecnoloxías/linguaxes de programación,... a empregar. Indicar que linguaxe ou ferramentas empregarás para a realización do proxecto. 
