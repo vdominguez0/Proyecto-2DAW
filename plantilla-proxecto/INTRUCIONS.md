@@ -21,16 +21,16 @@ Para o apoio dos alumnos estarán a disposición dos alumnos:
 
 ### Un repositorio git asociado ó voso proxecto
 
-Vaise colocar todo o proxecto nun repositorio privado de github. Este repositorio chamarase **Proxecto-DAW-23-24**.  Para crear este repositorio git precisaredes crear una conta en [github](https:/github.com/). 
+Vaise colocar todo o proxecto nun repositorio privado de github. Este repositorio chamarase **Proxecto-DAW-23-24**.  Para crear este repositorio git precisaredes crear una conta en [github](https:/github.com/).
 
 [Guía para crear unha conta de github](https://www.mclibre.org/consultar/informatica/lecciones/github-cuenta.html)
 
-Neste repositorio ides ir documentando e subindo todas as entregas de código e artefactos desenvolvidos. 
+Neste repositorio ides ir documentando e subindo todas as entregas de código e artefactos desenvolvidos.
 
 Como plantilla base para o desenvolvemento do voso proxecto empregaredes a[platilla de proyecto](../plantilla-proxecto/) o cal ten o seguinte contido:
 
-- [arquivos de templates para as fases](doc/templates) e de [material de axuda](doc/material_axuda). 
-- [directorio de imaxes](doc/img) onde ubicar as imaxes ás que facedes referencia na documentación. 
+- [arquivos de templates para as fases](doc/templates) e de [material de axuda](doc/material_axuda).
+- [directorio de imaxes](doc/img) onde ubicar as imaxes ás que facedes referencia na documentación.
 
 Estes arquivos de templates son elementos esquemáticos que serven de plantilla para construir a documentación que deberedes aportar.
 

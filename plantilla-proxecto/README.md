@@ -1,5 +1,16 @@
 # Proxecto fin de ciclo
 
+- [Proxecto fin de ciclo](#proxecto-fin-de-ciclo)
+  - [Taboleiro do proyecto](#taboleiro-do-proyecto)
+  - [Descrición](#descrición)
+  - [Instalación / Posta en marcha](#instalación--posta-en-marcha)
+  - [Uso](#uso)
+  - [Sobre o autor](#sobre-o-autor)
+  - [Licenza](#licenza)
+  - [Índice](#índice)
+  - [Guía de contribución](#guía-de-contribución)
+  - [Links](#links)
+
 > *EXPLICACIÓN*: Este documento será a "*páxina de aterrizaxe*" do teu proxecto. Será ou primeiro que vexan vos que se interesen por el. Cúida a sua redacción con todo ou mimo. Elimina posteriormente todas as lineas "EXPLICACIÓN*" cando creas finalizada a súa redacción.
 > Podes acompañar á redacción deste ficheiro con imaxes ou gifs, pero non abuses deles.
 
@@ -34,14 +45,13 @@
 
 > *EXPLICACIÓN*: Simplemente indexa ordenadamente todo o tey proxecto.
 
-1. Anteproyecto
-    * 1.1. [Idea](doc/templates/1_idea.md)
-    * 1.2. [Necesidades](doc/templates/2_necesidades.md)
-2. [Análise](doc/templates/3_analise.md)
-3. [Planificación](doc/templates/4_planificacion.md)
-4. [Deseño](doc/templates/5_deseño.md)
-5. [Implantación](doc/templates/6_implantacion.md)
-6. [Manual técnico]
+1. [Anteproyecto](doc/templates/1_Anteproxecto.md)
+2. [Análise](doc/templates/2_Analise.md)
+3. [Deseño](doc/templates/3_Deseño.md)
+4. [Codificación e probas](doc/templates/4_Codificacion_e_probas.md)
+5. [Implantación](doc/templates/5_Implantación.md)
+6. [Referencias](doc/templates/6_Referencias.md)
+7. [Incidencias](doc/templates/7_Incidencias.md)
 
 ## Guía de contribución
 
